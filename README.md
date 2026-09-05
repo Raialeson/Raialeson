@@ -28,13 +28,6 @@ Sou natural de Manaus, AM, e atuo há mais de 7 anos na Bemol. Hoje, como Superv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-### 📊 Estatísticas
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Raialeson&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raialeson&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
 ### 📜 Certificações
 
 - 🎓 Cisco — Networking Basics
