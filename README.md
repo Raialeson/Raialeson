@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Supervisor%20de%20Prevenção%20a%20Fraudes%20e%20PLD--FT-0a1512?style=flat-square&color=00e0c7&labelColor=0a1512"/>
 </p>
 
-Sou natural de Manaus, AM, e atuo há mais de 4 anos na Bemol. Hoje, como Supervisor de Prevenção a Fraudes e PLD-FT, conduzo o squad responsável pelo desenvolvimento de análises e sistemas antifraude próprios, aplicando aprendizado de máquina na identificação de padrões de risco. Também curso Análise e Desenvolvimento de Sistemas no Senac e estudo Cyber Security e IA aplicada.
+Sou natural de Manaus, AM, e atuo há mais de 4 anos na Bemol. Hoje, como Supervisor de Prevenção a Fraudes, conduzo o squad responsável pelo desenvolvimento de análises e sistemas antifraude próprios, aplicando aprendizado de máquina na identificação de padrões de risco. Também curso Análise e Desenvolvimento de Sistemas no Senac e estudo Cyber Security e IA aplicada.
 
 <p>
   <a href="https://raialeson.github.io"><img src="https://img.shields.io/badge/PORTFÓLIO-raialeson.github.io-00e0c7?style=for-the-badge&labelColor=0a1512"/></a>
